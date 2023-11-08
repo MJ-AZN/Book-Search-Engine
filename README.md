@@ -22,7 +22,9 @@ https://www.npmjs.com/package/graphql.
 
 ## Usage
 This can be used when clients want to create an application to search and save searched books.
-
+![Screenshot](assets/home.png)
+![Screenshot](assets/login.png)
+![Screenshot](assets/search.png)
 
 ## License
 This project is under the MIT license.
